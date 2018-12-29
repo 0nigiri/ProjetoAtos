@@ -13,7 +13,7 @@ import com.google.gson.annotations.SerializedName;
 /*
  * Classe funcionarios
  * @author  Thiago Onishi
- * 
+ * Criar um novo schema no sql chamado projeto_atos para o hibernate criar as tabelas
  */
 
 
